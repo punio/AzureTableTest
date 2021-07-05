@@ -20,7 +20,7 @@ AzureDataTables.TestTableService.GonyoGonyo()
 
 # Write
 
-The write process will work rewrite the process here because an exception will occur in ```Azure/azure-sdk-for-net/.../Utf8JsonWriterExtensions.cs```.
+The write process will work rewrite the process here because an exception will occur in ```Azure/Core/.../Utf8JsonWriterExtensions.cs (microsoft.azure.autorest.csharp)```.
 
 ```cs
 case double d:
